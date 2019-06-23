@@ -1,0 +1,15 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "Cypress Automation Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:headless": "cypress run"
+  },
+  "author": "Cosmin Tocaciu",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^3.3.1"
+  }
+}
